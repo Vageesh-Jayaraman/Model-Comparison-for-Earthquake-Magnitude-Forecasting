@@ -67,8 +67,8 @@ The accuracy of the models was evaluated, and the results are as follows:
 ## Visualization
 
 Geopandas is used to create geographical plots of earthquake data. The varying earthquake magnitudes are visually represented, helping us understand the distribution of earthquake magnitudes across different locations.
+![image](https://github.com/Vageesh-Jayaraman/Earthquake-Prediction/assets/143870355/4f775df8-467b-41f0-8d6d-b16bff57a6e6)
 
 ## Conclusion
-
 This project demonstrates the potential of machine learning in earthquake magnitude prediction, which can contribute to early warning systems and informed decision-making for disaster management and infrastructure planning. The use of Geopandas for visualization adds an important spatial dimension to the analysis.
 
