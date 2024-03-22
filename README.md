@@ -36,3 +36,5 @@ Geopandas is used to create geographical plots of earthquake data. The varying e
 
 ## Conclusion
 While the primary focus of this project is not on earthquake prediction, the evaluation of machine learning algorithms for earthquake magnitude estimation holds significance. The findings contribute to understanding the comparative effectiveness of different models, which can inform future research directions and practical applications in early warning systems, disaster management, and infrastructure planning. The use of Geopandas for visualization adds a crucial spatial dimension to the analysis.
+
+![WhatsApp Image 2024-03-22 at 23 37 15](https://github.com/Vageesh-Jayaraman/Model-Comparison-for-Earthquake-Magnitude-Forecasting/assets/143961880/54645b83-220d-40ab-9fb4-69901cd88465)
